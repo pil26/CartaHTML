@@ -1,0 +1,51 @@
+#letter {
+    background-color: rgb(248, 165, 165);
+    border: 3px solid rgb(136, 41, 41);
+    max-width: 25rem;
+    height: 33rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#date {
+    background-color: rgb(243, 217, 217);
+    border: 3px solid rgb(136, 41, 41);;
+    max-width: 12.5rem;
+    margin: 10px auto;
+}
+
+#greeting-container {
+    background-color: rgb(243, 217, 217);
+    display: flex;
+    border: 3px solid rgb(136, 41, 41);;
+    padding: 10px;
+    margin: 10px;
+    max-width: fit-content;
+    justify-items: flex-start;
+    align-items: center;
+}
+
+#message {
+    background-color: rgb(243, 217, 217);
+    border: 3px solid rgb(136, 41, 41);;
+    margin: 50px 10px 50px 10px;
+    max-width: 25rem;
+}
+
+#farewell-message {
+    background-color: rgb(243, 217, 217);
+    display: flex;
+    border: 3px solid rgb(136, 41, 41);;
+    max-width: fit-content;
+    padding: 10px;
+    margin: 10px;
+}
+
+#signature {
+    background-color: rgb(243, 217, 217);
+    display: flex;
+    border: 3px solid rgb(136, 41, 41);;
+    max-width: fit-content;
+    padding: 10px;
+    margin: 25px 0px 0px 10px;
+}
